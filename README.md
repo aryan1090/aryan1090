@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-## Hey, I'm [Aryan Choudhary] 👋
+## Hey, I'm Aryan Choudhary 👋
 
 <br>
 
