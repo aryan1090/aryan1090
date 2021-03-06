@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 
 </div>
 
-#Let's Connect On:
+## Let's Connect On:
+
 <a href="https://www.linkedin.com/in/aryan-choudhary-a58437182/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
