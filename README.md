@@ -16,19 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey, I'm [Aryan Choudhary] 👋
 
-
-<a href="https://www.linkedin.com/in/aryan-choudhary-a58437182/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/aryan1090">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-
-<br/>
-<br/>
-
-
+<br>
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning more about Node.js.
@@ -55,3 +43,11 @@ Here are some ideas to get you started:
 
 
 </div>
+
+#Let's Connect On:
+<a href="https://www.linkedin.com/in/aryan-choudhary-a58437182/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/aryan1090">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
