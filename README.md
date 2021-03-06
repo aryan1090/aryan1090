@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [MERN STACK]
+- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning more about Node.js.
 - 👯 I’m looking to collaborate on MERN or Java.
 - 💬 Ask me about anything related to React.
