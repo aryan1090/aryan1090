@@ -54,10 +54,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://user-images.githubusercontent.com/67420435/109650792-b99df080-7b83-11eb-9aa0-16415dfbbd66.jpg"> </code>  
 
 
-
-
-
-
-### Show some ❤️ by starring some of the repositories!
-
 </div>
